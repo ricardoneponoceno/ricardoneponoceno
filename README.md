@@ -1,5 +1,5 @@
 <div align="center">
-<p> On my business card, I am a public servant. In my mind, I am a software developer. But in my heart, I am a gamer. 👋 </p>
+<p> On my business card, I am a public servant. In my mind, I am a software developer. But in my heart, I am a gamer. 🎮 </p>
 </div>
 
 ##
