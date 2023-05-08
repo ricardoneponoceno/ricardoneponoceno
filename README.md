@@ -18,7 +18,7 @@
   <img align="center" alt="Rick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rick-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Rick-pic" height="150" style="border-radius:50px;" src="https://steamuserimages-a.akamaihd.net/ugc/1768193572632911919/B37F6B9264DF28BD43980E2AB6631473A6CCD16C/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false?width=676&height=676">
+  <img align="right" alt="Rick-pic" height="150" style="border-radius:50px;" src="https://i.gifer.com/fetch/w300-preview/60/60416c7bb161f622cc469f9949481793.gif">
 </div>
 
 ##
