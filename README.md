@@ -9,7 +9,7 @@
 
 <img height="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ricardoneponoceno&&show_icons=true&theme=dark&count_private=true" />
 <!--<img height="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ricardoneponoceno&&show_icons=true&theme=dark" />-->
- <img height="45%" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&&show_icons=true&theme=dark&count_private=true" />
+ <img height="45%" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&&show_icons=true&theme=dark&count_private=true" />
 </div>
  <div>
    <img align="right" alt="Rick-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/7A5ZfPJ.gif">
