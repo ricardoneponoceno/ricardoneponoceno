@@ -8,7 +8,8 @@
 <a href="https://github.com/rneponoceno/">
 
 <img height="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ricardoneponoceno&&show_icons=true&theme=dark&count_private=true" />
-<img height="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ricardoneponoceno&&show_icons=true&theme=dark" />
+<img align="right" alt="Rick-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/7A5ZfPJ.gif">
+<!--<img height="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ricardoneponoceno&&show_icons=true&theme=dark" /> -->
 </div>
 
 <div style="display: inline_block"><br>
@@ -18,12 +19,13 @@
   <img align="center" alt="Rick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rick-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Rick-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
 </div>
 
 ##
 
 <div> 
-  <img align="right" alt="Rick-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/7A5ZfPJ.gif">
+  
   <a href="https://www.youtube.com/rick_punkrock" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/ricardoneponoceno" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/ricardohenrick" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
