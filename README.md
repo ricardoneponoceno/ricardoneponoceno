@@ -8,9 +8,11 @@
 <a href="https://github.com/rneponoceno/">
 
 <img height="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ricardoneponoceno&&show_icons=true&theme=dark&count_private=true" />
-<img align="right" alt="Rick-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/7A5ZfPJ.gif">
 <!--<img height="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ricardoneponoceno&&show_icons=true&theme=dark" /> -->
 </div>
+ <div>
+   <img align="right" alt="Rick-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/7A5ZfPJ.gif">
+ </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
