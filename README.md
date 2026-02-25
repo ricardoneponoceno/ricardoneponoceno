@@ -11,6 +11,11 @@
 <!--<img height="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ricardoneponoceno&&show_icons=true&theme=dark" />-->
  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&&show_icons=true&theme=dark&count_private=true" />
 </div>
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ricardoneponoceno&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoneponoceno&layout=compact&theme=tokyonight" />
+</p>
  <div>
    <img align="right" alt="Rick-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/7A5ZfPJ.gif">
  </div>
