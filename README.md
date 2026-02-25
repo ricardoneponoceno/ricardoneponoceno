@@ -39,7 +39,9 @@
   <a href="https://www.linkedin.com/in/rneponoceno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-<img src="https://raw.githubusercontent.com/ricardoneponoceno/ricardoneponoceno/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ricardoneponoceno/ricardoneponoceno/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 <!-- ![Snake animation](https://github.com/ricardoneponoceno/ricardoneponoceno/blob/output/github-contribution-grid-snake.svg) -->
 
 <!--
