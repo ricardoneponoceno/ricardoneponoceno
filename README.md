@@ -7,9 +7,9 @@
 <div>
 <a href="https://github.com/rneponoceno/">
 
-<img width="68%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ricardoneponoceno&&show_icons=true&theme=dark&count_private=true" />
-<!--<img height="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ricardoneponoceno&&show_icons=true&theme=dark" />-->
- <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&&show_icons=true&theme=dark&count_private=true" />
+<!--<img width="68%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ricardoneponoceno&&show_icons=true&theme=dark&count_private=true" />
+<!--<img height="45%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ricardoneponoceno&&show_icons=true&theme=dark" />
+ <!--<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&&show_icons=true&theme=dark&count_private=true" /> -->
 </div>
 
 <p align="left">
